@@ -2,9 +2,11 @@
 
 A new Flutter project for UTS.
 
-Nama  : Muhammad Haikal Mahardika
-NIM   : 2111102441157
-Kelas : B
+Nama  : Muhammad Haikal Mahardika.
+
+NIM   : 2111102441157.
+
+Kelas : B.
 
 
 
